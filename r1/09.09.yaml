@@ -1,0 +1,31 @@
+#YAML
+my:
+ girls1:
+  name: Kate2
+  profession: Interpreter
+ 
+ girls2:
+   name: Inna
+   profession: Engineer
+
+ girls3:
+  name: Kate1
+  profession: Doctor
+
+Man:
+  man1: 
+   name: Victor
+   profession: Interpreter
+ 
+  Man2:
+    name: Dno
+    profession: driver
+  Man3:
+   name: Dik
+   profession: benchmark
+
+girls:
+  - girls1
+  - girls2
+  - girls3
+
